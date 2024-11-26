@@ -5,7 +5,7 @@ system_ext/etc/permissions/com.sonyericsson.soundenhancement.xml
 system_ext/priv-app/SoundEnhancement/SoundEnhancement.apk|3f229a280e4ac1f7088195488395ba12fe92a153
 
 # 360 RA
-product/overlay/ThreeSixtyRASystem-pdx234-Overlay.apk
+product/overlay/ThreeSixtyRASystem-pdx237-Overlay.apk
 system_ext/app/ThreeSixtyRASettings/ThreeSixtyRASettings.apk
 system_ext/etc/permissions/com.sony.threesixtyra.audiofx.xml
 system_ext/etc/permissions/jp.co.sony.threesixtyra.system.xml
