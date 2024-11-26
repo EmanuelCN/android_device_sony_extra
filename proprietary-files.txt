@@ -35,7 +35,7 @@ vendor/etc/vintf/manifest/vendor.dolby.media.c2@1.0-service.xml
 vendor/lib64/libcodec2_soft_dolby.so
 vendor/lib64/libcodec2_store_dolby.so
 vendor/lib64/vendor.dolby.hardware.dms@2.0-impl.so
-vendor/lib64/vendor.dolby.hardware.dms@2.0.so
+vendor/lib64/vendor.dolby.hardware.dms@2.0.so;MODULE_SUFFIX=_vendor
 vendor/lib64/libdapparamstorage.so
 vendor/lib64/libcodec2_soft_ac4dec.so
 vendor/lib64/libdlbdsservice.so
@@ -59,9 +59,9 @@ vendor/lib64/libaudiosnpewrapper.so
 vendor/lib64/libaudiosnpewrapper_context.so
 vendor/lib64/libcodec2_soft_mha1dec.so
 vendor/lib64/libcodec2_soft_mhm1dec.so
-vendor/lib64/libiVptApi.so
+vendor/lib64/libiVptApi.so;DISABLE_CHECKELF
 vendor/lib64/libiVptHkiDec.so
-vendor/lib64/libiVptLibC.so
+vendor/lib64/libiVptLibC.so;DISABLE_CHECKELF
 vendor/lib64/librebuffering.so
 vendor/lib64/libtsrspkenhance.so
 vendor/lib64/libupmix-lib.so
